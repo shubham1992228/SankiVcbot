@@ -7,7 +7,7 @@
         "MusicPlayer",
         "VideoPlayer"
     ],
-    "repository": "https://github.com/SankiWizer/SankiVcbot",
+    "repository": "https://github.com/shubham1992228/SankiVcbot",
     "env": {
         "SESSION": {
             "description": "Pyrogram String Session",
@@ -37,7 +37,7 @@
             "url": "heroku/python"
         },
         {
-            "url": " https://github.com/shubham1992228/SankiVcbot/blob/kaal/app.json"
+            "url": "https://github.com/shubham1992228/SankiVcbot/blob/kaal/app.json"
         }
     ],
     "formation": {
