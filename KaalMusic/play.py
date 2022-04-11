@@ -361,7 +361,7 @@ async def playfrom(client, m: Message):
                     add_to_queue(chat_id, songname, location, link, "Audio", 0)
                     # await m.reply_to_message.delete()
                     await m.reply_photo(
-                        photo="https://telegra.ph/file/6213d2673486beca02967.png",
+                        photo="https://telegra.ph/file/9ef29940fd5d6d7bc756c.jpg",
                         caption=f"""
 **▶ Start Playing Songs From {chat}
 🏷️ Title: [{songname}]({link})
